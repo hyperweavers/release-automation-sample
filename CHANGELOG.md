@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0-rc.2](https://github.com/hyperweavers/release-automation-sample/compare/v1.1.0-rc.1...v1.1.0-rc.2) (2020-09-18)
+
+
+### Bug Fixes
+
+* add hot fix 1 ([#22](https://github.com/hyperweavers/release-automation-sample/issues/22)) ([fc2f72e](https://github.com/hyperweavers/release-automation-sample/commit/fc2f72e99b6cbf3e15d17c3a59221e43a769ed7a))
+
+
+### Features
+
+* add feature 6 ([#18](https://github.com/hyperweavers/release-automation-sample/issues/18)) ([fd2ff19](https://github.com/hyperweavers/release-automation-sample/commit/fd2ff19d2fb9098b22ffc6b3d4feb9878ee5fd8f))
+
+# [1.1.0-rc.1](https://github.com/hyperweavers/release-automation-sample/compare/v1.0.0...v1.1.0-rc.1) (2020-09-18)
+
+
+### Features
+
+* add feature 5 ([#13](https://github.com/hyperweavers/release-automation-sample/issues/13)) ([c248ed6](https://github.com/hyperweavers/release-automation-sample/commit/c248ed683aecca52dce94c79cbb6502c5aca1841))
+
 ## [1.0.1](https://github.com/hyperweavers/release-automation-sample/compare/v1.0.0...v1.0.1) (2020-09-18)
 
 
