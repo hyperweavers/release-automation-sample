@@ -10,6 +10,13 @@ All notable changes to this project will be documented in this file. See
 
 * add feature 5 ([#13](https://github.com/hyperweavers/release-automation-sample/issues/13)) ([c248ed6](https://github.com/hyperweavers/release-automation-sample/commit/c248ed683aecca52dce94c79cbb6502c5aca1841))
 
+## [1.0.1](https://github.com/hyperweavers/release-automation-sample/compare/v1.0.0...v1.0.1) (2020-09-18)
+
+
+### Bug Fixes
+
+* add hot fix 1 ([#17](https://github.com/hyperweavers/release-automation-sample/issues/17)) ([b797cc6](https://github.com/hyperweavers/release-automation-sample/commit/b797cc6382945c7e35b9c3d0ed29ce43aec2199a))
+
 # 1.0.0 (2020-09-18)
 
 
