@@ -1,0 +1,12 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 1.0.0-rc.1 (2020-09-18)
+
+
+### Features
+
+* add feature 1 ([#1](https://github.com/hyperweavers/release-automation-sample/issues/1)) ([c8c6a27](https://github.com/hyperweavers/release-automation-sample/commit/c8c6a279a478e8a10a5e02c9d4428bd8bdd2a91d))
+* add feature 2 ([#2](https://github.com/hyperweavers/release-automation-sample/issues/2)) ([2297b6f](https://github.com/hyperweavers/release-automation-sample/commit/2297b6f1bf06714c167fc8f5a2f46b5d335e2597))
